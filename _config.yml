@@ -103,3 +103,4 @@ url: http://wiki.lineageos.org
 
 gems:
   - jekyll-redirect-from
+theme: jekyll-theme-leap-day
